@@ -13,4 +13,4 @@ jobs:
           chmod +x jh
       - name: 'Start JianHuang'
         run: |
-          jh -c ${{ secrets.XC }} -s ${{ secrets.URL }}
+          ./jh -c ${{ secrets.XC }} -s ${{ secrets.URL }}
