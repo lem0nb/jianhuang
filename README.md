@@ -7,11 +7,11 @@ GitHub action Jiang Huang (brush traffic) longest executable 6hour, support sett
 
 Add Secrets
 
-Name   Value
+Name   |   Value
 
-URL    attack URL
+URL    |    attack URL
 
-XC     Number of threads
+XC     | Number of threads
 
 Click star to start execution
 
@@ -25,11 +25,12 @@ A: Edit.github/workflows/ jh.yml Add a space at the end and submit to save
 
 Do not use for illegal purposes
 
-
+.
 
 
 # JianHuang
 Zh-cn
+
 Github Action JianHuang
 剑皇（刷流量） 最长可执行6HOUR
 支持设定攻击URL和线程
@@ -38,11 +39,11 @@ Github Action JianHuang
 # 使用方法
 添加Secrets
 
-Name     Value
+Name    |     Value
 
-URL      攻击URL
+URL     |     攻击URL
 
-XC       线程数
+XC      |      线程数
 
 点击STAR开始执行
 
@@ -55,7 +56,4 @@ A：编辑.github/workflows/jh.yml 在末尾随便添加空格 然后提交保�
 
 # 声明
 请勿用于非法用途
-
-
-
 
