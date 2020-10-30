@@ -1,9 +1,9 @@
-#JianHuang
+# JianHuang
 English
 
 GitHub action Jiang Huang (brush traffic) longest executable 6hour, support setting attack URL and thread
 
-#usage method
+# usage method
 
 Add Secrets
 
@@ -15,19 +15,22 @@ XC     | Number of threads
 
 Click star to start execution
 
-#Troubleshooting
+# Troubleshooting
 
 Q: What if you click star and do not execute it?
 
 A: Edit.github/workflows/ jh.yml Add a space at the end and submit to save
 
-#statement
+# statement
 
 Do not use for illegal purposes
 
 .
-
-
+. 
+. 
+. 
+. 
+. 
 # JianHuang
 Zh-cn
 
