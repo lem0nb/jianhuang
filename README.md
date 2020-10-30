@@ -3,7 +3,7 @@ English | [Zh-cn](#JianHuang-1)
 
 GitHub action Jiang Huang (brush traffic) longest executable 6hour, support setting attack URL and thread
 
-# usage method
+# Usage Method
 
 Add Secrets
 
